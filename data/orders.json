@@ -1,0 +1,20 @@
+{
+  "1": {
+    "user_id": 780885328,
+    "username": "roman_biaskrouny",
+    "items": [
+      {
+        "product_id": "5",
+        "name": "Snapback Cap",
+        "price": 22.99,
+        "qty": 1,
+        "subtotal": 22.99
+      }
+    ],
+    "total": 22.99,
+    "status": "done",
+    "promo_code": "JOP9",
+    "discount": 4.6,
+    "final_total": 18.39
+  }
+}
