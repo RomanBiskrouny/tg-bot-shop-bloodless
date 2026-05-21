@@ -1,0 +1,44 @@
+{
+  "1": {
+    "name": "Classic Shorts",
+    "description": "Lightweight, breathable fabric. Perfect for everyday wear or sport.",
+    "price": 24.99,
+    "category": "Shorts",
+    "image_id": null
+  },
+  "2": {
+    "name": "Sport Shorts",
+    "description": "Quick-dry material, elastic waistband with drawstring. Sizes S-XXL.",
+    "price": 29.99,
+    "category": "Shorts",
+    "image_id": null
+  },
+  "3": {
+    "name": "Slim Fit Pants",
+    "description": "Modern slim cut, premium cotton blend. Available in black and navy.",
+    "price": 49.99,
+    "category": "Pants",
+    "image_id": null
+  },
+  "4": {
+    "name": "Jogger Pants",
+    "description": "Comfortable tapered joggers with cuffed ankles and side pockets.",
+    "price": 44.99,
+    "category": "Pants",
+    "image_id": null
+  },
+  "5": {
+    "name": "Snapback Cap",
+    "description": "Adjustable snapback, structured 6-panel design. One size fits all.",
+    "price": 22.99,
+    "category": "Caps",
+    "image_id": null
+  },
+  "6": {
+    "name": "Dad Cap",
+    "description": "Unstructured soft cotton cap with a pre-curved brim. Very comfortable.",
+    "price": 17.99,
+    "category": "Caps",
+    "image_id": null
+  }
+}
